@@ -1,0 +1,23 @@
+{
+    "timestamp": "20251013_170610",
+    "num_epochs": 20,
+    "final_train_loss": 0.1565053199834012,
+    "final_train_acc": 0.938141146872906,
+    "final_val_loss": 0.4080992341041565,
+    "final_val_acc": 0.8780307173728943,
+    "best_val_acc": 0.8780307173728943,
+    "best_epoch": 20,
+    "total_training_time": 101.23651123046875,
+    "num_classes": 8,
+    "class_names": [
+        "A+",
+        "A-",
+        "AB+",
+        "AB-",
+        "B+",
+        "B-",
+        "O+",
+        "O-"
+    ],
+    "device": "cuda"
+}
